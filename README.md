@@ -1,15 +1,15 @@
 # Crime_Analytics_Machine_Learning
 
-# This project was done for the course big data analytics by:
-# 1) Kevin Roy
-# 2) Abhishek Varma
-# 3) Saurabh Shete
+ This project was done for the course big data analytics by:
+ 1) Kevin Roy
+ 2) Abhishek Varma
+ 3) Saurabh Shete
 
 
-# Problem Statement : Predicting whether an area in Los Angeles will experience high or low crime in a given month based on historical data
+ Problem Statement : Predicting whether an area in Los Angeles will experience high or low crime in a given month based on historical data
 
-# Introduction to the Dataset
-# Dataset dimension: 974,477 rows × 28 columns.
+ Introduction to the Dataset
+ Dataset dimension: 974,477 rows × 28 columns.
 
 
 🔍 Key Highlights:
